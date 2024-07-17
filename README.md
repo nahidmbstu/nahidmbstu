@@ -9,6 +9,7 @@
 
 - https://finder-lbs.com/
 - https://www.conveyance.app/
-- 
+- https://play.google.com/store/apps/details?id=com.raju
+- https://play.google.com/store/apps/details?id=com.nahidmbstu.qrcodebarcodescanner
 
 
