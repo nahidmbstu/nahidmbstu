@@ -3,7 +3,7 @@
 
 - 💞️ I’m looking to collaborate on open source. 
 - 📫 How to reach me ...
-- nahid.mbstu.ict@gmail.com
+- nahidhasan.workpost@gmail.com
 
 - Some of my Works:
 
