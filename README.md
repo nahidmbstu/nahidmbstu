@@ -10,6 +10,8 @@
 - https://finder-lbs.com/
 - https://www.conveyance.app/
 - https://play.google.com/store/apps/details?id=com.raju
+- https://play.google.com/store/apps/details?id=com.mtl.conveyance
+- https://play.google.com/store/apps/details?id=com.healer.patient
 
 - https://uninotebd.netlify.app/
 - https://nahidmovietime.netlify.app/
