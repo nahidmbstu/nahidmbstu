@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on open source. 
 - 📫 How to reach me ...
 - nahidhasan.workpost@gmail.com
-- [neo's home][https://neohasan.carrd.co/]
+- [neo](https://neohasan.carrd.co/)
 
 - Some of my Works:
 
